@@ -1,0 +1,55 @@
+{
+    "subject": "Blender Course",
+    "plan": {
+        "chapters": {
+            "1": {
+                "name": "Introduction to Blender",
+                "time": "60",
+                "links": [
+                    "www.youtube.com/introduction",
+                    "www.facebook.com/blenderintro"
+                ]
+            },
+            "2": {
+                "name": "Basic Modeling",
+                "time": "60",
+                "links": [
+                    "www.youtube.com/basicmodeling",
+                    "www.facebook.com/blendermodeling"
+                ]
+            },
+            "3": {
+                "name": "Texturing and Materials",
+                "time": "60",
+                "links": [
+                    "www.youtube.com/texturing",
+                    "www.facebook.com/blendertexturing"
+                ]
+            },
+            "4": {
+                "name": "Lighting and Rendering",
+                "time": "60",
+                "links": [
+                    "www.youtube.com/lighting",
+                    "www.facebook.com/blenderlighting"
+                ]
+            },
+            "5": {
+                "name": "Animation",
+                "time": "60",
+                "links": [
+                    "www.youtube.com/animation",
+                    "www.facebook.com/blenderanimation"
+                ]
+            },
+            "6": {
+                "name": "Advanced Techniques",
+                "time": "60",
+                "links": [
+                    "www.youtube.com/advancedtechniques",
+                    "www.facebook.com/blenderadvanced"
+                ]
+            }
+        }
+    }
+}
